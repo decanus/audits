@@ -5,3 +5,4 @@
 - [Sirin](/Sirin.pdf)
 - [SingularityNet](/SingularityNet.pdf)
 - [WePower](/WePower.pdf)
+- [HodlCoin](/HodlCoin.pdf)
