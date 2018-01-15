@@ -6,3 +6,4 @@
 - [SingularityNet](/SingularityNet.pdf)
 - [WePower](/WePower.pdf)
 - [HodlCoin](/HodlCoin.pdf)
+- [Aidcoin](/Aidcoin.pdf)
