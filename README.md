@@ -7,3 +7,4 @@
 - [WePower](/WePower.pdf)
 - [HodlCoin](/HodlCoin.pdf)
 - [Aidcoin](/Aidcoin.pdf)
+- [DataWallet](/DataWallet.pdf)
