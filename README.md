@@ -9,3 +9,4 @@
 - [Aidcoin](/Aidcoin.pdf)
 - [DataWallet](/DataWallet.pdf)
 - [Asobicoin](/asobicoin.pdf)
+- [DNSSEC](/DNSSEC.pdf)
