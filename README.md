@@ -10,3 +10,4 @@
 - [DataWallet](/DataWallet.pdf)
 - [Asobicoin](/asobicoin.pdf)
 - [DNSSEC](/DNSSEC.pdf)
+- [Kudos](/Kudos.pdf)
